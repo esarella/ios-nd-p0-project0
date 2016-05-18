@@ -22,15 +22,6 @@ class QuizViewController: UIViewController, AVSpeechSynthesizerDelegate {
     var spokenText = ""
     var bcpCode = ""
     let speechSynth = AVSpeechSynthesizer()
-    
-  
-  
-  
-  
-
-  
-  
-  
   
   @IBAction func flagButtonPressed(sender: UIButton) {
     
